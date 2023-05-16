@@ -4,7 +4,7 @@
   "description": "tipobootcam",
   "main": "index.js",
   "scripts": {
-    "node":"Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo",
+    "node":"node index.js",
     "start": "node index.js"
   },
   "repository": {
