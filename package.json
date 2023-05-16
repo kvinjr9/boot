@@ -1,0 +1,24 @@
+{
+  "name": "proyectoone",
+  "version": "1.0.0",
+  "description": "tipobootcam",
+  "main": "index.js",
+  "scripts": {
+    "node":"Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kvinjr9/boot.git"
+  },
+  "keywords": [
+    "yepa",
+    "firstproject"
+  ],
+  "author": "krew0911",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kvinjr9/boot/issues"
+  },
+  "homepage": "https://github.com/kvinjr9/boot#readme"
+}
